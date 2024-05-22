@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Kumar Pal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="1000" src="https://camo.githubusercontent.com/754dbf2e365fea5318616ed8ff17144ad564ddd1c1e04e6991fa691336aac854/68747470733a2f2f6769746875622e626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f31322f3130323339333331302d30373437386238302d336638642d313165622d383465622d3339326435353565626432392e706e673f726573697a653d31323030253243363330">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankkkp&label=Profile%20views&color=0e75b6&style=flat" alt="mayankkkp" /> </p>
